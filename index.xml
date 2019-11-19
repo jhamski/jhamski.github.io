@@ -18,7 +18,7 @@
       
       <guid>http://jhamski.github.io/about/</guid>
       <description>Hello and welcome! I&amp;rsquo;m a software product manager and data scientist who builds software products from idea to market launch. I manage digital products and analytics at G100 Companies, but any work and opinions here are my own and do not reflect those of my employer.
-My background is in the Earth Sciences and I started my career in the hydroelectric power industry before working on geospatial mapping products at Elsevier, Inc.</description>
+My background is in environmental science and I started my career in the hydroelectric power industry before working on geospatial mapping products at Elsevier, Inc.</description>
     </item>
     
     <item>
@@ -27,8 +27,8 @@ My background is in the Earth Sciences and I started my career in the hydroelect
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://jhamski.github.io/2019/10/19/first-post/</guid>
-      <description>Hi and welcome. This is blog built to showcase my projects and experiments in data, statistics, and programming, with some discourse about product management thrown in. Opinions here are my own and do not reflect those of my employer.
-This site is built using blogdown in R, using the Hugo Lithium theme @jrutheiser/hugo-lithium-theme and modified by Yihui Xie. A huge thanks to everyone in the open source community who built the myriad to tools that bring you this webpage, it takes a myriad of tools, nearly all of them free.</description>
+      <description>Hi and welcome. This is blog built to showcase my projects and experiments in data, statistics, and programming, with some discourse about product management thrown in. Since all of my work is proprietary, one of my goals here is to show off my skills using Driven Data competitions or similar projects. Opinions here are my own and do not reflect those of my employer.
+This site is built using blogdown in R, using the Hugo Lithium theme @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>
