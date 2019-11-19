@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jim Hamski Data Science and Product Managemet Portfolio</title>
-    <link>/post/</link>
+    <link>http://jhamski.github.io/post/</link>
     <description>Recent content in Posts on Jim Hamski Data Science and Product Managemet Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jhamski.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First post!</title>
-      <link>/2019/10/19/first-post/</link>
+      <link>http://jhamski.github.io/2019/10/19/first-post/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/19/first-post/</guid>
+      <guid>http://jhamski.github.io/2019/10/19/first-post/</guid>
       <description>Hi and welcome. This is blog built to showcase my projects and experiments in data, statistics, and programming, with some discourse about product management thrown in. Opinions here are my own and do not reflect those of my employer.
 This site is built using blogdown in R, using the Hugo Lithium theme @jrutheiser/hugo-lithium-theme and modified by Yihui Xie. A huge thanks to everyone in the open source community who built the myriad to tools that bring you this webpage, it takes a myriad of tools, nearly all of them free.</description>
     </item>
